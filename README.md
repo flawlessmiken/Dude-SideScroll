@@ -23,12 +23,10 @@ npm install
 
 npm run dev
 ```
-
 ## Building the game
 ```
 npm run build
 ```
-
 ## About
 This game was created using [Phaser 2](https://phaser.io/) and written in [TypeScript](https://www.typescriptlang.org/) as a way for me to learn both.
 
